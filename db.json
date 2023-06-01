@@ -6,7 +6,8 @@
             "telefon": "90 642 22 05",
             "ball": "45",
             "imtihon": "O`tkazildi",
-            "rasmi": "./imgs/bekmurod.jpg"
+            "rasmi": "./imgs/bekmurod.jpg",
+            "id": 1
         },
         {
             "ism": "Mahmudjonov Bekmurod",
@@ -14,7 +15,8 @@
             "telefon": "90 642 22 05",
             "ball": "45",
             "imtihon": "O`tkazildi",
-            "rasmi": "./imgs/bekmurod.jpg"
+            "rasmi": "./imgs/bekmurod.jpg",
+            "id": 2
         },
         {
             "ism": "Mahmudjonov Bekmurod",
@@ -22,7 +24,8 @@
             "telefon": "90 642 22 05",
             "ball": "45",
             "imtihon": "O`tkazildi",
-            "rasmi": "./imgs/bekmurod.jpg"
+            "rasmi": "./imgs/bekmurod.jpg",
+            "id": 3
         }
     ]
 }
